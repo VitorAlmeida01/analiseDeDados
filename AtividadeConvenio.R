@@ -72,10 +72,3 @@ barplot(as.numeric(ala_counts),
         ylab = "Quantidade de Atendimentos",
         names.arg = names(ala_counts))
 
-
-
-
-
-
-
-

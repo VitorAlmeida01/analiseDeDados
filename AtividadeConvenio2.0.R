@@ -83,8 +83,3 @@ cat("Percentual de idosos atendidos:", percent_idosos, "%\n")
 
 # 5. Todas as perguntas acima devem ser justificadas por meio de gráficos.
 # (Os gráficos já foram gerados acima)
-
-# 6. Criando um relatório em HTML para apresentação
-library(rmarkdown)
-rmarkdown::render("relatorio.Rmd")
-
